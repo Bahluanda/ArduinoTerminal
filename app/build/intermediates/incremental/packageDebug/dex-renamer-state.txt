@@ -1,0 +1,7 @@
+#Mon Feb 20 17:25:21 BRT 2017
+base.0=C\:\\Users\\letic\\ArduinoTerminal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_43844215860f3c6dab7c195c2756e8d9a97bd092
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\letic\\ArduinoTerminal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ae7d1e8c51b1e54fb9fcd1c32e19a9eb5a33ecb5\\classes.dex
+base.1=C\:\\Users\\letic\\ArduinoTerminal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ae7d1e8c51b1e54fb9fcd1c32e19a9eb5a33ecb5
+file.0=C\:\\Users\\letic\\ArduinoTerminal\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_43844215860f3c6dab7c195c2756e8d9a97bd092\\classes.dex

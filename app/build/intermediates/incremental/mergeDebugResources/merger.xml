@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="C:\Users\letic\ArduinoTerminal\app\src\main\res"/><source path="C:\Users\letic\ArduinoTerminal\app\build\generated\res\rs\debug"/><source path="C:\Users\letic\ArduinoTerminal\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="C:\Users\letic\ArduinoTerminal\app\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\Users\letic\ArduinoTerminal\app\src\main\res"><file name="connect" path="C:\Users\letic\ArduinoTerminal\app\src\main\res\drawable-hdpi\connect.png" qualifiers="hdpi-v4" type="drawable"/><file name="exit" path="C:\Users\letic\ArduinoTerminal\app\src\main\res\drawable-hdpi\exit.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon" path="C:\Users\letic\ArduinoTerminal\app\src\main\res\drawable-hdpi\icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="keyboard" path="C:\Users\letic\ArduinoTerminal\app\src\main\res\drawable-hdpi\keyboard.gif" qualifiers="hdpi-v4" type="drawable"/><file name="notification" path="C:\Users\letic\ArduinoTerminal\app\src\main\res\drawable-hdpi\notification.png" qualifiers="hdpi-v4" type="drawable"/><file name="preferences" path="C:\Users\letic\ArduinoTerminal\app\src\main\res\drawable-hdpi\preferences.png" qualifiers="hdpi-v4" type="drawable"/><file name="connect" path="C:\Users\letic\ArduinoTerminal\app\src\main\res\drawable-ldpi\connect.png" qualifiers="ldpi-v4" type="drawable"/><file name="exit" path="C:\Users\letic\ArduinoTerminal\app\src\main\res\drawable-ldpi\exit.png" qualifiers="ldpi-v4" type="drawable"/><file name="icon" path="C:\Users\letic\ArduinoTerminal\app\src\main\res\drawable-ldpi\icon.png" qualifiers="ldpi-v4" type="drawable"/><file name="keyboard" path="C:\Users\letic\ArduinoTerminal\app\src\main\res\drawable-ldpi\keyboard.gif" qualifiers="ldpi-v4" type="drawable"/><file name="notification" path="C:\Users\letic\ArduinoTerminal\app\src\main\res\drawable-ldpi\notification.png" qualifiers="ldpi-v4" type="drawable"/><file name="preferences" path="C:\Users\letic\ArduinoTerminal\app\src\main\res\drawable-ldpi\preferences.png" qualifiers="ldpi-v4" type="drawable"/><file name="connect" path="C:\Users\letic\ArduinoTerminal\app\src\main\res\drawable-mdpi\connect.png" qualifiers="mdpi-v4" type="drawable"/><file name="exit" path="C:\Users\letic\ArduinoTerminal\app\src\main\res\drawable-mdpi\exit.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon" path="C:\Users\letic\ArduinoTerminal\app\src\main\res\drawable-mdpi\icon.png" qualifiers="mdpi-v4" type="drawable"/><file name="keyboard" path="C:\Users\letic\ArduinoTerminal\app\src\main\res\drawable-mdpi\keyboard.gif" qualifiers="mdpi-v4" type="drawable"/><file name="notification" path="C:\Users\letic\ArduinoTerminal\app\src\main\res\drawable-mdpi\notification.png" qualifiers="mdpi-v4" type="drawable"/><file name="preferences" path="C:\Users\letic\ArduinoTerminal\app\src\main\res\drawable-mdpi\preferences.png" qualifiers="mdpi-v4" type="drawable"/><file name="main" path="C:\Users\letic\ArduinoTerminal\app\src\main\res\layout\main.xml" qualifiers="" type="layout"/><file name="terminal" path="C:\Users\letic\ArduinoTerminal\app\src\main\res\layout\terminal.xml" qualifiers="" type="layout"/><file name="titlebar" path="C:\Users\letic\ArduinoTerminal\app\src\main\res\layout\titlebar.xml" qualifiers="" type="layout"/><file name="main_menu" path="C:\Users\letic\ArduinoTerminal\app\src\main\res\menu\main_menu.xml" qualifiers="" type="menu"/><file path="C:\Users\letic\ArduinoTerminal\app\src\main\res\values\arrays.xml" qualifiers=""><string-array name="pref_clear_action_entries">
+        <item>Clear Display</item>
+        <item>Clear Input Field</item>
+        <item>Clear Both</item>
+    </string-array><string-array name="pref_font_size_entries">
+        <item>4 pt</item>
+        <item>6 pt</item>
+        <item>8 pt</item>
+        <item>10 pt</item>
+        <item>11 pt</item>
+        <item>12 pt</item>
+        <item>13 pt</item>
+        <item>14 pt</item>
+        <item>15 pt</item>
+        <item>16 pt</item>
+        <item>17 pt</item>
+        <item>18 pt</item>
+        <item>20 pt</item>
+        <item>24 pt</item>
+        <item>28 pt</item>
+        <item>32 pt</item>
+        <item>36 pt</item>
+        <item>40 pt</item>
+    </string-array><string-array name="pref_keyboard_type_entries">
+        <item>Numeric</item>
+        <item>QWERTY</item>
+    </string-array><string-array name="pref_display_orientation_entries">
+        <item>Portrait</item>
+        <item>Landscape</item>
+        <item>Sensor</item>
+    </string-array><string-array name="pref_show_messages_entryvalues">
+        <item>0</item>
+        <item>22</item>
+        <item>24</item>
+    </string-array><string-array name="pref_font_size_entryvalues">
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>20</item>
+        <item>24</item>
+        <item>28</item>
+        <item>32</item>
+        <item>36</item>
+        <item>40</item>
+    </string-array><string-array name="pref_keyboard_type_entryvalues">
+        <item>0</item>
+        <item>1</item>
+    </string-array><string-array name="pref_font_typeface_entries">
+        <item>Monospace</item>
+        <item>Sans-serif</item>
+        <item>Serif</item>
+    </string-array><string-array name="pref_display_colors_entries">
+        <item>Black on White</item>
+        <item>White on Black</item>
+        <item>Green on Black</item>
+        <item>White on Blue</item>
+    </string-array><string-array name="pref_show_messages_entries">
+        <item>None</item>
+        <item>Information</item>
+        <item>Debug</item>
+    </string-array></file><file path="C:\Users\letic\ArduinoTerminal\app\src\main\res\values\strings.xml" qualifiers=""><string name="usb_device_attached">USB device attached</string><string name="main_menu_reconnect_name">Reconnect</string><string name="pref_display_orientation_summary">Set orientation of the display</string><string name="no_usb_devices_attached_message">No USB devices are currently attached</string><string name="main_menu_exit_name">Exit</string><string name="pref_font_typeface_default">Monospace</string><string name="ok_string">OK</string><string name="pref_category_application_key">arduino_terminal_category_application</string><string name="pref_display_orientation_key">arduino_terminal_display_orientation</string><string name="pref_show_keyboard_default">false</string><string name="connect_fail_message">Fail to connect to </string><string name="prefix_in">> </string><string name="pref_category_display_title">Display Preferences</string><string name="terminal_activity_title">Send Command to:</string><string name="pref_show_keyboard_key">arduino_terminal_show_keyboard</string><string name="pref_clear_action_summary">What to do when "Clear" button is pressed</string><string name="pref_show_keyboard_summary">Always show keyboard when input field is shown</string><string name="terminal_activity_clear">Clear</string><string name="no_permissions_for_this_usb_device_message">No permissions to connect to USB device</string><string name="connected_to_usb_device_message">Connected to USB device</string><string name="pref_keyboard_type_default">1</string><string name="wait_dialog_title">Connecting to </string><string name="pref_local_echo_key">arduino_terminal_local_echo</string><string name="prefix_out">&lt; </string><string name="connect_dialog_title">Connect to USB</string><string name="pref_local_echo_title">Local Echo</string><string name="pref_show_keyboard_title">Show Keyboard</string><string name="pref_local_echo_summary">Show user input on the display</string><string name="pref_keyboard_type_title">Keyboard Type</string><string name="pref_close_on_detach_title">Exit on USB Detach</string><string name="pref_show_messages_summary">Show application messages on the display</string><string name="pref_font_typeface_key">arduino_terminal_font_typeface</string><string name="pref_clear_action_default">Clear Display</string><string name="pref_show_messages_key">arduino_terminal_show_messages</string><string name="pref_close_on_detach_key">arduino_terminal_close_on_detach</string><string name="pref_show_messages_title">Show Messages</string><string name="pref_category_display_key">arduino_terminal_category_display</string><string name="pref_font_size_title">Font Size</string><string name="pref_show_messages_default">22</string><string name="pref_font_typeface_summary">Set display font type</string><string name="pref_category_application_title">Application Preferences</string><string name="pref_display_orientation_default">Portrait</string><string name="main_menu_settings_name">Settings</string><string name="pref_font_size_key">arduino_terminal_font_size</string><string name="pref_close_on_detach_summary">Close application when USB device is detached</string><string name="pref_display_colors_title">Display Colors</string><string name="disconnected_from_usb_device_message">Disconnected from USB device</string><string name="cancel_string">Cancel</string><string name="pref_clear_action_title">Action on Clear</string><string name="pref_keyboard_type_summary">Set type of keyboard used for input</string><string name="usb_device_detached">USB device detached</string><string name="pref_font_typeface_title">Font Type</string><string name="hello">Hello World, UsbActivity!</string><string name="starter_app_name">Start Arduino Service</string><string name="pref_display_colors_key">arduino_terminal_display_colors</string><string name="terminal_activity_name">Commands</string><string name="pref_clear_action_key">arduino_terminal_clear_action</string><string name="terminal_activity_send">Send</string><string name="pref_display_colors_default">Black on White</string><string name="app_name">Arduino Terminal</string><string name="pref_keyboard_type_key">arduino_terminal_keyboard_type</string><string name="wait_dialog_message">Please wait...</string><string name="pref_display_colors_summary">Set display colors: font and background</string><string name="pref_font_size_summary">Set display font size</string><string name="pref_font_size_default">13</string><string name="main_menu_connect_name">Connect</string><string name="pref_display_orientation_title">Display Orientation</string></file><file name="accessory_filter" path="C:\Users\letic\ArduinoTerminal\app\src\main\res\xml\accessory_filter.xml" qualifiers="" type="xml"/><file name="preferences" path="C:\Users\letic\ArduinoTerminal\app\src\main\res\xml\preferences.xml" qualifiers="" type="xml"/></source><source path="C:\Users\letic\ArduinoTerminal\app\build\generated\res\rs\debug"/><source path="C:\Users\letic\ArduinoTerminal\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="C:\Users\letic\ArduinoTerminal\app\src\debug\res"/></dataSet><mergedItems/></merger>

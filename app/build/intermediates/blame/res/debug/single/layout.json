@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\letic\\ArduinoTerminal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\titlebar.xml",
+        "source": "C:\\Users\\letic\\ArduinoTerminal\\app\\src\\main\\res\\layout\\titlebar.xml"
+    },
+    {
+        "merged": "C:\\Users\\letic\\ArduinoTerminal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\letic\\ArduinoTerminal\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\letic\\ArduinoTerminal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\terminal.xml",
+        "source": "C:\\Users\\letic\\ArduinoTerminal\\app\\src\\main\\res\\layout\\terminal.xml"
+    }
+]

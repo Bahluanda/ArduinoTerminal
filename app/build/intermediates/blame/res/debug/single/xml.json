@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\letic\\ArduinoTerminal\\app\\build\\intermediates\\res\\merged\\debug\\xml\\accessory_filter.xml",
+        "source": "C:\\Users\\letic\\ArduinoTerminal\\app\\src\\main\\res\\xml\\accessory_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\letic\\ArduinoTerminal\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\letic\\ArduinoTerminal\\app\\src\\main\\res\\xml\\preferences.xml"
+    }
+]

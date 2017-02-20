@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\letic\\ArduinoTerminal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\connect.png",
+        "source": "C:\\Users\\letic\\ArduinoTerminal\\app\\src\\main\\res\\drawable-hdpi\\connect.png"
+    },
+    {
+        "merged": "C:\\Users\\letic\\ArduinoTerminal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\notification.png",
+        "source": "C:\\Users\\letic\\ArduinoTerminal\\app\\src\\main\\res\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\letic\\ArduinoTerminal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\preferences.png",
+        "source": "C:\\Users\\letic\\ArduinoTerminal\\app\\src\\main\\res\\drawable-hdpi\\preferences.png"
+    },
+    {
+        "merged": "C:\\Users\\letic\\ArduinoTerminal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\exit.png",
+        "source": "C:\\Users\\letic\\ArduinoTerminal\\app\\src\\main\\res\\drawable-hdpi\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\letic\\ArduinoTerminal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\Users\\letic\\ArduinoTerminal\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    }
+]
